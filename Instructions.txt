@@ -1,0 +1,27 @@
+Instructions:
+
+1. Extract the zip in some folder.
+2. Ensure Node JS is installed in the system (NodeJS v10+ recommended). To check, execute following in terminal.
+	-> node -v
+	-> npm -v
+
+	If both command provide some version number then proceed with following steps else install Node JS.
+
+3. Open terminal and cd into that folder.
+	-> cd connect-4-api
+4. Execute ls command
+	-> ls
+	(Ensure package.json in present in the ls output)
+5. Install all the dependencies.
+	-> npm install
+	(Ensure all the dependencies are installed)
+6. Run the server
+	-> npm start
+7. Now please read "How to Play.txt"
+
+
+
+
+Additional Instructions:
+1. To run server in dev mode execute following command.
+	-> npm run start-dev

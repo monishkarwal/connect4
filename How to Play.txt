@@ -1,0 +1,11 @@
+Lets Play :D
+
+1. Open any browser and load following URL -> localhost:8000
+2. Now the game will be initiated and the relevant data will be rendered. This will setup all the required data for player 1.
+3. The game status will be in “Waiting” state until any other player joins the lobby.
+4. Open another browser window/tab and load the following URL -> localhost:8000. This will setup the data for player 2.
+5. The game status now will be updated to “Started”.
+6. Now as per the turns, the “Turn” will be highlighted. 
+7. Click on the buttons above grid the drop disk in appropriate column.
+
+
